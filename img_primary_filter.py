@@ -1,3 +1,15 @@
+# -*- encoding: utf-8 -*-
+'''
+@File    :   img_primary_filter.py
+@Time    :   2022/08/10 23:10:48
+@Author  :   Wang Wei 
+@Version :   1.0
+@Contact :   wow.kingofmoon@gmail.com
+@github  :   https://github.com/alexct-max/cv_lesson.git
+@Desc    :   初级筛选
+'''
+
+
 import re
 import os
 import cv2
