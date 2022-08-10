@@ -1,0 +1,6 @@
+umap-learn
+opencv-python
+matplotlib
+torch 
+torchvision 
+torchaudio
